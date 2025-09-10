@@ -1,0 +1,2 @@
+# AmazeCare
+Hospital Management System
